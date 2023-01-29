@@ -1,0 +1,26 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:crafting_table"
+        },
+        "title": "Super Craft",
+        "description": "作業台を作成する",
+        "background": "minecraft:textures/block/quartz_block_top.png",
+        "frame": "task"
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:crafting_table"
+                        ],
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    }
+}

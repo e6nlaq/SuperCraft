@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "title": "草生えた",
+        "description": "草ブロックをクラフトする"
+    },
+    "parent": "supercraft:root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": [
+                            "minecraft:grass_block"
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}
