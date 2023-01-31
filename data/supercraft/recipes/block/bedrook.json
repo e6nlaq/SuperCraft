@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "KKK",
+        "KKK",
+        "KKK"
+    ],
+    "key": {
+        "K": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:bedrock"
+    }
+}

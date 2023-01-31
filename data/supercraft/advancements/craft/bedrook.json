@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:grass_block"
+            "item": "minecraft:bedrock"
         },
-        "title": "草生えた",
-        "description": "草ブロックをゲットする"
+        "title": "こいつは固い!",
+        "description": "岩盤をゲットする"
     },
     "parent": "supercraft:root",
     "criteria": {
@@ -14,7 +14,7 @@
                 "items": [
                     {
                         "items": [
-                            "minecraft:grass_block"
+                            "minecraft:bedrock"
                         ]
                     }
                 ]
