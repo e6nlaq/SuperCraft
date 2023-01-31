@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "S"
+    ],
+    "key": {
+        "I": [
+            {
+                "item": "minecraft:carrot_on_a_stick",
+                "tag": "supercraft:"
+            },
+            {
+                "item": "minecraft:cobblestone"
+            }
+        ],
+        "S": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:barrier"
+    }
+}

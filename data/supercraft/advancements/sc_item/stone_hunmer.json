@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "supercraft:item/sc_stone_hunmer"
+            }
+        }
+    },
+    "rewards": {
+        "function": "supercraft:craft/sc_stone_hunmer"
+    }
+}

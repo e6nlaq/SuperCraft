@@ -1,12 +1,12 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:grass_block"
+            "item": "minecraft:command_block"
         },
-        "title": "草生えた",
-        "description": "草ブロックを入手する"
+        "title": "マインクラフトの全て",
+        "description": "コマンドブロックを入手する"
     },
-    "parent": "supercraft:root",
+    "parent": "supercraft:craft/bedrook",
     "criteria": {
         "requirement": {
             "trigger": "minecraft:inventory_changed",
@@ -14,7 +14,7 @@
                 "items": [
                     {
                         "items": [
-                            "minecraft:grass_block"
+                            "minecraft:command_block"
                         ]
                     }
                 ]

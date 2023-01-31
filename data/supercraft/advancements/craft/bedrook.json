@@ -4,7 +4,7 @@
             "item": "minecraft:bedrock"
         },
         "title": "こいつは固い!",
-        "description": "岩盤をゲットする"
+        "description": "岩盤を入手する"
     },
     "parent": "supercraft:root",
     "criteria": {
